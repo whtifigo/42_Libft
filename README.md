@@ -4,11 +4,11 @@
 
 - <a href="#what-is-it">What is it?</a>
 
-- [Features](#features)
+- <a href="#features">Features</a>
 
-- 📥 Installation
+- <a href="#installation">Installation</a>
 
-🛠️ Usage
+- <a href="#usage">Usage</a>
 
 📂 Project Structure
 
