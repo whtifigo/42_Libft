@@ -6,17 +6,11 @@
 
 - <a href="#-features">Features</a>
 
-- <a href="#installation">Installation</a>
+- <a href="#-installation">Installation</a>
 
-- <a href="#usage">Usage</a>
+- <a href="#-usage">Usage</a>
 
-📂 Project Structure
-
-📌 Available Functions
-
-🤝 Contributing
-
-📜 License
+- <a href="#-license">License</a>
 
 👤 Author
 ### What is it?
@@ -28,7 +22,7 @@ The libft project is custom implementation of essential C Standard Library funct
 - ✅ Streamlines the importing process as a helper library for future projects.
 - ✅ Easy and flexible updates for future added functions.
 
-### Installation
+### 📥 Installation
 Clone this repository:
 ```
 git clone https://github.com/whtifigo/42_Libft.git
@@ -42,5 +36,24 @@ And compile everything:
 make
 ```
 Having done this, a ```libft.a``` will be created!
+
+### ⚙️ Usage
+Include the ```libft.h``` anywhere in your project:
+```
+#include "libft.h"
+#include <stdio.h>
+
+int main(void)
+{
+    char *copy = ft_strdup("Libft is awesome!");
+    printf("%s\n", copy);
+    return 0;
+}
+```
+I've compiled it with:
+```
+cc -Wall -Wextra -Werror
+```
+### 📜 License
 
 
