@@ -2,7 +2,7 @@
 
 ## 🗂️ Table of Contents
 
-- <a href="#what-is-it?">What is it?</a>
+- <a href="###what-is-it?">What is it?</a>
 
 - [Features](#features)
 
