@@ -4,7 +4,7 @@
 
 - <a href="#what-is-it">What is it?</a>
 
-- <a href="#✨_features">Features</a>
+- <a href="#✨-features">Features</a>
 
 - <a href="#installation">Installation</a>
 
