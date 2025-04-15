@@ -17,7 +17,7 @@
 ---
 
 ### What is it? <a id="what-is-it"></a>
-The libft project is custom implementation of essential C Standard Library functions, developed as part of the 42 School curriculum. It serves as the ground level for code interpretation of basic functions, memory management and overall low-level programming in C.
+The libft project is a custom implementation of essential C Standard Library functions, developed as part of the 42 School curriculum. It serves as the ground level for code interpretation of basic functions, memory management and overall low-level programming in C.
 
 ---
 
