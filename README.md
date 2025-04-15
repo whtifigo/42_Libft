@@ -1,26 +1,27 @@
+![libft github header](https://github.com/user-attachments/assets/0fb5c62d-d009-40f4-a447-117ccb833e44)
 # 📚 Libft – 42 Project
 
 ## 🗂️ Table of Contents
 
-- <a href="#what-is-it">What is it?</a>
+- [What is it?](#what-is-it)
 
-- <a href="#-features">Features</a>
+- [Features](#features)
 
-- <a href="#-installation">Installation</a>
+- [Installation](#installation)
 
-- <a href="#-usage">Usage</a>
+- [Usage](#usage)
 
-- <a href="#-license">License</a>
+- [Licese](#license)
 
-- <a href="#-author">Author</a>
+- [Author](#author)
 ---
 
-### What is it?
+### What is it? <a id="what-is-it"></a>
 The libft project is custom implementation of essential C Standard Library functions, developed as part of the 42 School curriculum. It serves as the ground level for code interpretation of basic functions, memory management and overall low-level programming in C.
 
 ---
 
-### ✨ Features
+### ✨ Features <a id="features"></a>
 - ✅ Implements replicated functions of the stardard C library.
 - ✅ Includes extra functions on string manipulation, memory management and linked lists.
 - ✅ Streamlines the importing process as a helper library for future projects.
@@ -28,7 +29,7 @@ The libft project is custom implementation of essential C Standard Library funct
 
 ---
 
-### 📥 Installation
+### 📥 Installation <a id="installation"></a>
 Clone this repository:
 ```
 git clone https://github.com/whtifigo/42_Libft.git
@@ -49,7 +50,7 @@ Having done this, a ```libft.a``` will be created!
 
 ---
 
-### ⚙️ Usage
+### ⚙️ Usage <a id="usage"></a>
 Include the ```libft.h``` anywhere in your project:
 ```
 #include "libft.h"
@@ -69,13 +70,13 @@ cc -Wall -Wextra -Werror
 
 ---
 
-### 📜 License
+### 📜 License <a id="license"></a>
 
 This repository was granted permission and is licensed under the **MIT License**
 
 ---
 
-### 👤 Author
+### 👤 Author <a id="author"></a>
 
 @ WHTIFIGO
 
