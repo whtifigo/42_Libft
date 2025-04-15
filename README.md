@@ -8,19 +8,25 @@
 
 - <a href="#-installation">Installation</a>
 
-- <a href="#-usage">Usage</a>
+- <a href="-usage">Usage</a>
 
 - <a href="#-license">License</a>
 
 - <a href="#-author">Author</a>
+---
+
 ### What is it?
 The libft project is custom implementation of essential C Standard Library functions, developed as part of the 42 School curriculum. It serves as the ground level for code interpretation of basic functions, memory management and overall low-level programming in C.
+
+---
 
 ### ✨ Features
 - ✅ Implements replicated functions of the stardard C library.
 - ✅ Includes extra functions on string manipulation, memory management and linked lists.
 - ✅ Streamlines the importing process as a helper library for future projects.
 - ✅ Easy and flexible updates for future added functions.
+
+---
 
 ### 📥 Installation
 Clone this repository:
@@ -41,6 +47,8 @@ make
 ```
 Having done this, a ```libft.a``` will be created!
 
+---
+
 ### ⚙️ Usage
 Include the ```libft.h``` anywhere in your project:
 ```
@@ -58,9 +66,14 @@ _I've compiled it with:_
 ```
 cc -Wall -Wextra -Werror
 ```
+
+---
+
 ### 📜 License
 
 This repository was granted permission and is licensed under the **MIT License**
+
+---
 
 ### 👤 Author
 
