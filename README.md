@@ -11,7 +11,7 @@
 
 - [Usage](#usage)
 
-- [Licese](#license)
+- [License](#license)
 
 - [Author](#author)
 ---
