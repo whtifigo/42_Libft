@@ -12,7 +12,7 @@
 
 - <a href="#-license">License</a>
 
-👤 Author
+- <a href="#-author">Author</a>
 ### What is it?
 The libft project is custom implementation of essential C Standard Library functions, developed as part of the 42 School curriculum. It serves as the ground level for code interpretation of basic functions, memory management and overall low-level programming in C.
 
@@ -30,6 +30,10 @@ git clone https://github.com/whtifigo/42_Libft.git
 Change your current path to the ```42_Libft``` folder:
 ```
 cd 42_Libft
+```
+Access the ```libft``` folder directly:
+```
+cd libft
 ```
 And compile everything:
 ```
@@ -50,10 +54,15 @@ int main(void)
     return 0;
 }
 ```
-I've compiled it with:
+_I've compiled it with:_
 ```
 cc -Wall -Wextra -Werror
 ```
 ### 📜 License
 
+This repository was granted permission and is licensed under the **MIT License**
+
+### 👤 Author
+
+@ WHTIFIGO
 
