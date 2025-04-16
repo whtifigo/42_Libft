@@ -51,21 +51,10 @@ Having done this, a ```libft.a``` will be created!
 ---
 
 ### ⚙️ Usage <a id="usage"></a>
-Include the ```libft.h``` anywhere in your project:
-```
-#include "libft.h"
-#include <stdio.h>
 
-int main(void)
-{
-    char *copy = ft_strdup("Libft is awesome!");
-    printf("%s\n", copy);
-    return 0;
-}
+To use this in your code, make sure to state the ```#include``` in your project and compile it.
 ```
-_I've compiled it with:_
-```
-cc -Wall -Wextra -Werror
+#include <libft.h>
 ```
 
 ---
