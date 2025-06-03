@@ -1,5 +1,6 @@
-![libft github header](https://github.com/user-attachments/assets/0fb5c62d-d009-40f4-a447-117ccb833e44)
+![libft_contra_cover](https://github.com/user-attachments/assets/c149a248-a03c-4f09-b6da-76bd7ee86bc6)
 # 📚 Libft – 42 Project
+
 
 ## 🗂️ Table of Contents
 
