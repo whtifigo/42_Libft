@@ -55,7 +55,7 @@ Having done this, a ```libft.a``` will be created!
 
 To use this in your code, make sure to state the ```#include``` in your project and compile it.
 ```
-#include <libft.h>
+#include "libft.h"
 ```
 
 ---
